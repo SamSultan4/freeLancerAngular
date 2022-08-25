@@ -1,0 +1,80 @@
+.fixed-footer{
+    width: 100%;
+    position: fixed;        
+    background: #333;
+    padding: 10px 0;
+    color: #fff;
+}
+
+.fixed-footer{
+    bottom: 0;
+}    
+
+
+
+.top_footer {
+    background: steelblue;
+    padding: 25px 0;
+    border-top: 6px solid #eb1d25;
+}
+
+
+h4.ftr_hd {
+    color: #eee;
+    font-size: 23px;
+    text-transform: uppercase;
+    font-weight: 550;
+}
+
+
+.ftr_frm {
+    margin: 0 20px;
+}
+
+
+.bottom_footer {
+    background: #1d47bd;
+    text-align: center;
+    color: #fff;
+    padding-top: 10px;
+}
+
+
+.col-sm-offset-2.col-sm-10.mysubmit {
+    margin-left: 0;
+    padding-left: 0;
+}
+
+.mysubmit button {
+    color: #fffefe;
+    background: #f00;
+    border: 0;
+    opacity: 1 !important;
+    padding: 10px 30px;
+    font-size: 18px;
+    box-shadow: 0px 0px 4px #fff;
+}
+
+.mysubmit button:hover {
+    color: #fff;
+    background-color: #eb1d25;
+    border-color: #adadad;
+}
+
+.mysubmit .btn.btn-default {
+    color: #fff;
+    background: #ea080f;
+}
+
+.mysubmit button.btn.btn-default:hover {
+    color: #000;
+}
+
+
+.margTopCls {
+    margin-top: 20px;
+}
+
+
+
+
